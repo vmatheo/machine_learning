@@ -1,1 +1,2 @@
-# Machine Learning
+# Machine Learning - NeoPetrol
+This project is more than just a machine learning program. It is dedicated to advancing the technological aspects of the Petroleum Industry by introducing new state of the art machine learning models and concepts. This aspect of the project is focused on creating a convolutional neural network that can determine rock reservoir types/formations. It is only an introduction to the topic, and later models I plan on using more complicated packages that can handle more capacity.
